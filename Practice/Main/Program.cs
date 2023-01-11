@@ -16,3 +16,11 @@ using Main.Controllers;
 //controller.ShowDatasViaAssembly();
 
 #endregion
+
+#region Lesson's Task
+
+AccountController controller = new AccountController();
+
+controller.Authentication();
+
+#endregion

@@ -16,3 +16,5 @@
 /Users/ali200119/Desktop/Homework/Practice/Main/obj/Debug/net6.0/Main.pdb
 /Users/ali200119/Desktop/Homework/Practice/Main/obj/Debug/net6.0/Main.genruntimeconfig.cache
 /Users/ali200119/Desktop/Homework/Practice/Main/obj/Debug/net6.0/ref/Main.dll
+/Users/ali200119/Desktop/Homework/Practice/Main/bin/Debug/net6.0/Service.dll
+/Users/ali200119/Desktop/Homework/Practice/Main/bin/Debug/net6.0/Service.pdb
